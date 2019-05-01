@@ -1,2 +1,2 @@
 # simple
-Cryp
+cryptocurrency
