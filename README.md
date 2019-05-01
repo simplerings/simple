@@ -14,7 +14,6 @@ Specification | Value
 --- | ---
 Protocol | PoW (proof of Work)
 Algorithms | scrypt
-Blocktime | 30 seconds
 Total Supply | 14,000,000 SILE
 RPC port | 20102
 P2P port | 21102
