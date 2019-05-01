@@ -13,7 +13,7 @@ Testing and code review is the bottleneck for development; we get more pull requ
 Specification | Value
 --- | ---
 Protocol | PoW (proof of Work)
-Algorithms | scrypt, x17, Lyra2rev2, myr-groestl, & blake2s
+Algorithms | scrypt
 Blocktime | 30 seconds
 Total Supply | 14,000,000 SILE
 RPC port | 20102
@@ -21,15 +21,11 @@ P2P port | 21102
 pre-mine | N/A
 ICO | N/A
 
-## Working principle
-
-The Directed Acyclic Graph (DAG) DLT is a more recent solution that offers the benefits of blockchain with better performance.
-In a DAG system, there are no miners and there are no blocks, users confirm each other’s transactions via a process that confirms previous transactions with each new transaction. Because there are no blocks, there is no blocksize issue and therefore, the block scaling debate seen in currencies such as Bitcoin does not exist.
-
 ## Mining
 
-SIMPLE due to its protocols do not need the presence of miners. Therefore, there is no need to pay a transaction fee. To make a transaction, you only need to confirm 1 going before the neutralization.
+### Solo mining
 
+Instead of joining a mining pool you can use the wallet to mine all by yourself. You need to specify the algorithm (see below) and set the "gen" flag. For instance, in the configuration specify `gen=1`.
 
 ### Social Network
 
