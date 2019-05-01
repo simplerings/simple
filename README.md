@@ -15,8 +15,8 @@ Specification | Value
 Protocol | PoW (proof of Work)
 Algorithms | scrypt
 Total Supply | 14,000,000 SILE
-RPC port | 20102
-P2P port | 21102
+RPC port | 2
+P2P port | 2
 pre-mine | N/A
 ICO | N/A
 
@@ -57,8 +57,8 @@ Simple is based on Byteball
   - [Windows Build Notes](doc/build-msw.md)
 
 ### Such ports
-RPC 22555
-P2P 22556
+RPC 2
+P2P 2
 
 ### Security-related issues
 
