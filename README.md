@@ -15,8 +15,8 @@ Specification | Value
 Protocol | PoW (proof of Work)
 Algorithms | scrypt
 Total Supply | 14,000,000 SILE
-RPC port | 2
-P2P port | 2
+RPC port | 20102
+P2P port | 21102
 pre-mine | N/A
 ICO | N/A
 
@@ -36,13 +36,9 @@ You can store cryptocurrency using the official wallet of the project "SILE Wall
 
 (You can also download the wallet on github)
 
-##Functions
-
-* ability to create smart contracts
-	
 ## Credits
 
-Simple is based on Byteball
+Simple is based on Bitcoin
 
 ## Donations
 
@@ -55,10 +51,6 @@ Simple is based on Byteball
   - [OSX Build Notes](doc/build-osx.md)
   - [Unix Build Notes](doc/build-unix.md)
   - [Windows Build Notes](doc/build-msw.md)
-
-### Such ports
-RPC 2
-P2P 2
 
 ### Security-related issues
 
