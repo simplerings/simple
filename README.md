@@ -26,6 +26,15 @@ ICO | N/A
 
 Instead of joining a mining pool you can use the wallet to mine all by yourself. You need to specify the algorithm (see below) and set the "gen" flag. For instance, in the configuration specify `gen=1`.
 
+#### Branches
+There are 3 types of branches in this repository:
+
+- **master:** Stable, contains the latest version of the latest *major.minor* release.
+- **maintenance:** Stable, contains the latest version of previous releases, which are still under active maintenance. Format: ```<version>-maint```
+- **development:** Unstable, contains new code for planned releases. Format: ```<version>-dev```
+
+*Master and maintenance branches are exclusively mutable by release. Planned releases will always have a development branch and pull requests should be submitted against those. Maintenance branches are there for* ***bug fixes only,*** *please submit new features against the development branch with the highest version.*
+
 ### Social Network
 
 * [Twitter](https://www.twitter.com/simplesile)
