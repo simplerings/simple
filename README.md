@@ -1,10 +1,6 @@
 # SIMPLE Core [SILE]
 ==========================
 
-# LICENSE
-
-Copyright (c) 2019 Simple
-
 ## Testing
 
 Testing and code review is the bottleneck for development; we get more pull requests than we can review and test on short notice. Please be patient and remember this is a security-critical project where any mistake might cost people lots of money.
