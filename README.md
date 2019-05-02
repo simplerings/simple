@@ -1,6 +1,10 @@
 # SIMPLE Core [SILE]
 ==========================
 
+# LICENSE
+
+Copyright (c) 2019 Simple
+
 ## Testing
 
 Testing and code review is the bottleneck for development; we get more pull requests than we can review and test on short notice. Please be patient and remember this is a security-critical project where any mistake might cost people lots of money.
@@ -26,10 +30,8 @@ Instead of joining a mining pool you can use the wallet to mine all by yourself.
 There are 3 types of branches in this repository:
 
 - **master:** Stable, contains the latest version of the latest *major.minor* release.
-- **maintenance:** Stable, contains the latest version of previous releases, which are still under active maintenance. Format: ```<version>-maint```
-- **development:** Unstable, contains new code for planned releases. Format: ```<version>-dev```
 
-*Master and maintenance branches are exclusively mutable by release. Planned releases will always have a development branch and pull requests should be submitted against those. Maintenance branches are there for* ***bug fixes only,*** *please submit new features against the development branch with the highest version.*
+*Planned releases will always have a development branch and pull requests should be submitted against those. Maintenance branches are there for* ***bug fixes only,*** *please submit new features against the development branch with the highest version.*
 
 ### Social Network
 
