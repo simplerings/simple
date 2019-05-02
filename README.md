@@ -11,8 +11,7 @@ Specification | Value
 Protocol | PoW (proof of Work)
 Algorithms | scrypt
 Total Supply | 14,000,000 SILE
-RPC port | 20102
-P2P port | 21102
+RPC port |
 pre-mine | N/A
 ICO | N/A
 
