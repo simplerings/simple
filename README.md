@@ -20,6 +20,18 @@ P2P port | 21102
 pre-mine | N/A
 ICO | N/A
 
+## Blockrewards
+Block Number | Reward
+--- | ---
+0 to 1 | 6,000,000 coins
+1 to 150 | 16 coins
+150 to 200 | 14 coins
+200 to 250 | 12 coins
+250 to 300 | 10 coins
+300 to 350 | 6 coins
+350 to 400 | 4 coins
+400 to 450 | 2 coins
+
 ## Mining
 
 ### Solo mining
@@ -45,7 +57,7 @@ You can store cryptocurrency using the official wallet of the project "SILE Wall
 
 ## Credits
 
-Simple is based on Bitcoin
+Simple is based on Litecoin
 
 ## Donations
 
