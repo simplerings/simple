@@ -1,6 +1,6 @@
 # SIMPLE Core [SILE]
 
-![Dogecoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![Dogecoin](file:///C:/Users/User/Desktop/simple-master/src/qt/res/icons/bitcoin.png)
 
 [![Build Status](https://travis-ci.org/dogecoin/dogecoin.svg?branch=1.7-dev)](https://travis-ci.org/dogecoin/dogecoin) [![tip for next commit](https://tip4commit.com/projects/702.svg)](https://tip4commit.com/github/dogecoin/dogecoin)
 
