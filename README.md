@@ -2,7 +2,7 @@
 
 ## What is SIMPLE? 
 
-It is a Cryptocurrency, originally created for the DAG technology.Currently, SIMPLE
+Cryptocurrency
 
 ## Testing
 
