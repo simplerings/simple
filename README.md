@@ -1,9 +1,4 @@
 # SIMPLE Core [SILE]
-==========================
-
-# LICENSE
-
-Copyright (c) 2019 Simple
 
 ## Testing
 
@@ -12,9 +7,9 @@ Testing and code review is the bottleneck for development; we get more pull requ
 ## Specifications
 Specification | Value
 --- | ---
-Protocol | PoW (proof of Work)
+Protocol | PoW (Proof of Work)
 Algorithms | scrypt
-Total Supply | 14,000,000 SILE
+Total Supply | 12,000,000 SILE
 RPC port | 20102
 P2P port | 21102
 pre-mine | N/A
@@ -23,7 +18,7 @@ ICO | N/A
 ## Blockrewards
 Block Number | Reward
 --- | ---
-0 to 1 | 6,000,000 coins
+0 to 1 | 5,000,000 coins
 1 to 150 | 16 coins
 150 to 200 | 14 coins
 200 to 250 | 12 coins
@@ -47,7 +42,7 @@ This repository has 1 branch type:
 
 ### Social Network
 
-* [Twitter](https://www.twitter.com/simplesile)
+* [Twitter]()
 
 ## Wallet
 
@@ -57,7 +52,7 @@ You can store cryptocurrency using the official wallet of the project "SILE Wall
 
 ## Credits
 
-Simple is based on Litecoin
+Simple is based on SIMPLE
 
 ## Donations
 
