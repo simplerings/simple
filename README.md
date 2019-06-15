@@ -1,5 +1,9 @@
 # SIMPLE Core [SILE]
 
+![Dogecoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+
+[![Build Status](https://travis-ci.org/dogecoin/dogecoin.svg?branch=1.7-dev)](https://travis-ci.org/dogecoin/dogecoin) [![tip for next commit](https://tip4commit.com/projects/702.svg)](https://tip4commit.com/github/dogecoin/dogecoin)
+
 ## Testing
 
 Testing and code review is the bottleneck for development; we get more pull requests than we can review and test on short notice. Please be patient and remember this is a security-critical project where any mistake might cost people lots of money.
